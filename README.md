@@ -1,3 +1,14 @@
+Personal dmenu build with the following patches:
+1. allow color font
+2. border
+3. case insensitive
+4. center
+5. fuzzymatch
+6. fuzzyhighlight
+7. line height
+8. numbers
+9. xresources alt
+
 dmenu - dynamic menu
 ====================
 dmenu is an efficient dynamic menu for X.
